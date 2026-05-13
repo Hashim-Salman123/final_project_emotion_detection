@@ -1,1 +1,1 @@
-# final_project_emotion_detection
+# Emotion Detection System using Watson NLP.
